@@ -1,4 +1,4 @@
-## download data file "Electric power consumption" which is a zipped text file
+## read from locally saved data file "Electric power consumption", originally a zipped text file
 ## select out only those rows with data between Feb 1 and Feb 2, 2007
 ## identify the specific rows by viewing the data in notepad or similar first
 ## select using skip and nrows arguments
